@@ -4,9 +4,7 @@
 #include <stack>
 using namespace std;
 
-// 1 + 3 * 2
-// ->
-//stack<char> mystack;
+// TODO: numbers with more than one digit.
 
 int isOperator(char c)
 {
